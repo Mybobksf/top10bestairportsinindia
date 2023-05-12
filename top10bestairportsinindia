@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Made with Thimble</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <div class="list">
+    <h1>Top 3 best airports in India</h1>
+    <div class="postion1">
+      <h2>Hyderabad Airport</h2> <img
+        src="https://akm-img-a-in.tosshub.com/indiatoday/images/story/201708/airport_650_052914071427_080417055215.jpg?VersionId=mvqYt8.L.iyOXS1QkOtQX8Wn9tFbecjV&size=690:388"
+        width="300">
+      <p>This airport is really cool it is in Hyderabad,India the airport outside also looks really good.It has a lot of
+        shops and has a lot of lights which looks really good and thats why this airport is number 1</p>
+    </div>
+    <div class="postion2">
+      <h3>Chennai Airport</h3> <img
+        src="https://top-bestairportsinindia51044420078491923459.netlify.app/Chennai_airport_view_4.jpeg.jpg"
+        width="300">
+      <p>This airport is really cool too.It is in Chennai,India.The airport outside is really cool.The airport inside
+        has a lot of lights and is really cool.This is why this airport is number 2.</p>
+    </div>
+    <div class="postion3">
+      <h4>Bangalore Airport</h4> <img
+        src="https://top-bestairportsinindia51044420078491923459.netlify.app/BIAL-airport02-copy.jpg" width="300">
+      <p>This airport looks really good in the outside and the inside.This airport is also really colorful.It also has a
+        lot of shops and is located in Bangalore,India.This is why this airport in number 3</p>
+    </div>
+  </div>
+  <style>
+  body {
+  text-align: center;
+}
+.list {
+    width: 960px;
+    margin: auto;
+    background-color: red;
+}
+.postion1{
+    width: 310px;
+    height: 500px;
+    border: 2px black solid;
+    display: inline-block;
+    vertical-align: top;
+}
+.postion2{
+  width: 310px;
+  height: 500px;
+  border: 2px black solid;
+  display: inline-block;
+  vertical-align: top;
+}
+.postion3{
+  width: 310px;
+  height: 500px;
+  border: 2px black solid;
+  display: inline-block;
+  vertical-align: top;
+}
+html {
+    display: block;
+}
+  </style>
+</body>
+
+</html>
